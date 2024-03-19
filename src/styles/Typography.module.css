@@ -1,0 +1,157 @@
+.display-large{
+    font-size: 57px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: -0.25px;
+}
+
+.display-large-bold{
+    font-size: 57px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -0.25px;
+}
+
+.display-medium{
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 52px; 
+}
+
+.display-small{
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+}
+
+.display-small-bold{
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 44px;
+}
+
+
+.headline-large{
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px; 
+}
+
+.headline-large-bold{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px; 
+}
+
+.headline-medium{
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 36px; 
+}
+
+.headline-medium-bold{
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px; 
+}
+
+.headline-small{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px; 
+}
+
+.headline-small-bold{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px; 
+}
+
+
+.body-large{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: 0.5px;
+}
+
+.body-large-bold{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px; 
+    letter-spacing: 0.5px;
+}
+
+
+.body-medium{
+    font-size: 14px;    
+    font-weight: 400;
+    line-height: 20px; 
+    letter-spacing: 0.25px;
+}
+
+
+
+
+.body-small{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px; 
+    letter-spacing: 0.4px;
+}
+
+.label-large{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px; 
+    letter-spacing: 0.1px;
+}
+
+.label-medium{
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px; 
+    letter-spacing: 0.5px;
+}
+
+.label-small{
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 16px; 
+    letter-spacing: 0.5px;
+}
+
+
+.title-large{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 28px; 
+}
+
+.title-large-bold{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28px; 
+}
+
+.title-medium{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.15px;
+}
+
+
+.title-small{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px; 
+    letter-spacing: 0.1px;
+}
+
+
+.dialog-headline{
+    font-size: 22.78px;
+    font-weight: 700;
+    line-height: normal;
+}
